@@ -16,4 +16,7 @@ Eu sou Mike silva , sou um Programador Front End ,atualamente estou aprendendo ,
 
 
 
-![Mike GitHub stats](https://github-readme-stats.vercel.app/api?username=MIke&show_icons=true&theme=radical)
+![Mike GitHub stats](https://github-readme-stats.vercel.app/api?username=mikesilva32&show_icons=true&theme=radical)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikesilva32&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
